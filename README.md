@@ -65,7 +65,7 @@ pip install dt-cli
 
 1. Upload your CA certificate to OneAgent or ActiveGate hosts that will run your extension
 
-   See: [Uplaod your root certificate to OneAgent or ActiveGate](https://docs.dynatrace.com/docs/extend-dynatrace/extensions20/sign-extension#upload)
+   See: [Upload your root certificate to OneAgent or ActiveGate](https://docs.dynatrace.com/docs/extend-dynatrace/extensions20/sign-extension#upload)
 
 1. Build and sign the extension
 
