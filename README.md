@@ -1,6 +1,6 @@
-# NOTICE:
+# Archived
 
-`dt-cli` has been decommissioned and will no longer be maintained with future updates.
+This project is no longer actively maintained. The repository remains available for reference. No additional features, fixes, or support should be expected.
 
 To continue building, signing, and uploading extensions, migrate to [`dt-extensions-sdk[cli]`](https://github.com/dynatrace-extensions/dt-extensions-python-sdk)
 
