@@ -1,3 +1,12 @@
+# Archived
+
+This project is no longer actively maintained. The repository remains available for reference. No additional features, fixes, or support should be expected.
+
+To continue building, signing, and uploading extensions, migrate to [`dt-extensions-sdk[cli]`](https://github.com/dynatrace-extensions/dt-extensions-python-sdk)
+
+For use cases requiring interaction with Dynatrace API, migrate to [dtctl](https://github.com/Dynatrace/dtctl)
+
+
 # dt-cli — Dynatrace developer's toolbox
 
 Dynatrace CLI is a command line utility that assists in signing, building and uploading
